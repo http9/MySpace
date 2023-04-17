@@ -1,2 +1,2 @@
 # MySpace
-All Projects of mine
+All Projects of me
